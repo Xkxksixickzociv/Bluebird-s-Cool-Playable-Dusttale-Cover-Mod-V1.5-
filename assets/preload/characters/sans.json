@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				160,
+				-213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sans-right"
+		},
+		{
+			"offsets": [
+				160,
+				-239
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sans-down"
+		},
+		{
+			"offsets": [
+				172,
+				-145
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sans-up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				194,
+				-195
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sans-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sans-idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				158,
+				-212
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cut2",
+			"loop": false,
+			"name": "sans-cut2"
+		},
+		{
+			"offsets": [
+				168,
+				-192
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "cut1",
+			"loop": false,
+			"name": "sans-cut1"
+		},
+		{
+			"offsets": [
+				160,
+				-240
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "end",
+			"loop": false,
+			"name": "sans-end"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		62,
+		96
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

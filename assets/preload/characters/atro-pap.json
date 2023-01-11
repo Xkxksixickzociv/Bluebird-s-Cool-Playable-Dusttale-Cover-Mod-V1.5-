@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				70,
+				-167
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "p-right"
+		},
+		{
+			"offsets": [
+				51,
+				-101
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "p-down"
+		},
+		{
+			"offsets": [
+				220,
+				49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "p-left"
+		},
+		{
+			"offsets": [
+				227,
+				85
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "p-up"
+		},
+		{
+			"offsets": [
+				130,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "p-idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/atro-pap",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pap3",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		29,
+		29
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

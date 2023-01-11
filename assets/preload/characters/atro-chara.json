@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "c-idle"
+		},
+		{
+			"offsets": [
+				40,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "c-left"
+		},
+		{
+			"offsets": [
+				15,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "c-down"
+		},
+		{
+			"offsets": [
+				-20,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "c-up"
+		},
+		{
+			"offsets": [
+				-41,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "c-right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/atro-chara",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "atro-cahra",
+	"flip_x": true,
+	"healthbar_colors": [
+		176,
+		50,
+		50
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

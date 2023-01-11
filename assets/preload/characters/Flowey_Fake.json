@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-41,
+				-238
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "Flowey_right"
+		},
+		{
+			"offsets": [
+				-40,
+				-240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Flowey_Fake"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flowey_fake",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

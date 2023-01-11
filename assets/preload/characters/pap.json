@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				-50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pap-idle"
+		},
+		{
+			"offsets": [
+				130,
+				-30
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "cut1",
+			"loop": false,
+			"name": "pap-cut1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pap",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		62,
+		96
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
