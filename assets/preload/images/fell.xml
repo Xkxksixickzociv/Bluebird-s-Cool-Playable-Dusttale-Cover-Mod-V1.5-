@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fell.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fell 10000" x="0" y="0" width="165" height="319" pivotX="5.7" pivotY="23.85"/>
+	<SubTexture name="fell 10001" x="0" y="0" width="165" height="319"/>
+	<SubTexture name="fell 10002" x="0" y="319" width="165" height="319"/>
+	<SubTexture name="fell 10003" x="165" y="0" width="165" height="319"/>
+	<SubTexture name="fell 10004" x="0" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10005" x="165" y="319" width="165" height="319"/>
+	<SubTexture name="fell 10006" x="330" y="0" width="165" height="319"/>
+	<SubTexture name="fell 10007" x="165" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10008" x="330" y="319" width="165" height="319"/>
+	<SubTexture name="fell 10009" x="495" y="0" width="165" height="319"/>
+	<SubTexture name="fell 10010" x="330" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10011" x="495" y="319" width="165" height="319"/>
+	<SubTexture name="fell 10012" x="660" y="0" width="165" height="319"/>
+	<SubTexture name="fell 10013" x="495" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10014" x="495" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10015" x="495" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10016" x="495" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10017" x="495" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10018" x="495" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10019" x="495" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10020" x="495" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10021" x="495" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10022" x="495" y="638" width="165" height="319"/>
+	<SubTexture name="fell 10023" x="495" y="638" width="165" height="319"/>
+</TextureAtlas>

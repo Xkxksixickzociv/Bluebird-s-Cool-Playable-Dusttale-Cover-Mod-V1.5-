@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="swap.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="swap 10000" x="0" y="0" width="235" height="294" pivotX="68.9" pivotY="0.05"/>
+	<SubTexture name="swap 10001" x="0" y="0" width="235" height="294"/>
+	<SubTexture name="swap 10002" x="235" y="0" width="235" height="294"/>
+	<SubTexture name="swap 10003" x="470" y="0" width="235" height="294"/>
+	<SubTexture name="swap 10004" x="705" y="0" width="235" height="294"/>
+	<SubTexture name="swap 10005" x="940" y="0" width="235" height="294"/>
+	<SubTexture name="swap 10006" x="1175" y="0" width="235" height="294"/>
+	<SubTexture name="swap 10007" x="1410" y="0" width="235" height="294"/>
+	<SubTexture name="swap 10008" x="1645" y="0" width="235" height="294"/>
+	<SubTexture name="swap 10009" x="0" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10010" x="235" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10011" x="470" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10012" x="705" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10013" x="940" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10014" x="940" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10015" x="940" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10016" x="940" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10017" x="940" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10018" x="940" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10019" x="940" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10020" x="940" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10021" x="940" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10022" x="940" y="294" width="235" height="294"/>
+	<SubTexture name="swap 10023" x="940" y="294" width="235" height="294"/>
+</TextureAtlas>

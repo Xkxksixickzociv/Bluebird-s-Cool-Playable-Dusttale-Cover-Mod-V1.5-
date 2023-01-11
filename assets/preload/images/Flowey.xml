@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Flowey.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Flowey 10000" x="0" y="0" width="235" height="231" pivotX="66.4" pivotY="24.95"/>
+	<SubTexture name="Flowey 10001" x="0" y="0" width="235" height="231"/>
+	<SubTexture name="Flowey 10002" x="235" y="0" width="235" height="231"/>
+	<SubTexture name="Flowey 10003" x="470" y="0" width="235" height="231"/>
+	<SubTexture name="Flowey 10004" x="705" y="0" width="235" height="231"/>
+	<SubTexture name="Flowey 10005" x="0" y="231" width="235" height="231"/>
+	<SubTexture name="Flowey 10006" x="0" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10007" x="0" y="693" width="235" height="231"/>
+	<SubTexture name="Flowey 10008" x="235" y="231" width="235" height="231"/>
+	<SubTexture name="Flowey 10009" x="470" y="231" width="235" height="231"/>
+	<SubTexture name="Flowey 10010" x="705" y="231" width="235" height="231"/>
+	<SubTexture name="Flowey 10011" x="235" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10012" x="235" y="693" width="235" height="231"/>
+	<SubTexture name="Flowey 10013" x="470" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10014" x="470" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10015" x="470" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10016" x="470" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10017" x="470" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10018" x="470" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10019" x="470" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10020" x="470" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10021" x="470" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10022" x="470" y="462" width="235" height="231"/>
+	<SubTexture name="Flowey 10023" x="470" y="462" width="235" height="231"/>
+</TextureAtlas>
