@@ -1,0 +1,49 @@
+{
+	"storyName": "what",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		165,
+		0
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Atrocity",
+			"atro-sans",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lean-drinker",
+			"sans",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Murderer-Rage",
+			"sans3",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "why you watching this"
+}
