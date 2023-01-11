@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Flowey.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Flowey_left 10000" x="867" y="383" width="289" height="383" pivotX="95.05" pivotY="24.95"/>
+	<SubTexture name="Flowey_left 10001" x="867" y="383" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10002" x="1156" y="383" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10003" x="1445" y="383" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10004" x="1734" y="383" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10005" x="0" y="766" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10006" x="289" y="766" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10007" x="578" y="766" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10008" x="867" y="766" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10009" x="1156" y="766" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10010" x="1445" y="766" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10011" x="1445" y="766" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10012" x="1445" y="766" width="289" height="383"/>
+	<SubTexture name="Flowey_left 10013" x="1445" y="766" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10000" x="0" y="0" width="289" height="383" pivotX="95.05" pivotY="24.95"/>
+	<SubTexture name="Flowey_right 10001" x="0" y="0" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10002" x="289" y="0" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10003" x="578" y="0" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10004" x="867" y="0" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10005" x="1156" y="0" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10006" x="1445" y="0" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10007" x="1734" y="0" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10008" x="0" y="383" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10009" x="289" y="383" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10010" x="578" y="383" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10011" x="578" y="383" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10012" x="578" y="383" width="289" height="383"/>
+	<SubTexture name="Flowey_right 10013" x="578" y="383" width="289" height="383"/>
+</TextureAtlas>

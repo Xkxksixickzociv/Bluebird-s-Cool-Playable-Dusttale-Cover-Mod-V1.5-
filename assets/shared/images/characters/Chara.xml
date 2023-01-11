@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chara.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chara-down 10000" x="1770" y="0" width="384" height="300" pivotX="36.65" pivotY="-37.5"/>
+	<SubTexture name="chara-down 10001" x="2154" y="0" width="384" height="300"/>
+	<SubTexture name="chara-down 10002" x="2538" y="0" width="384" height="300"/>
+	<SubTexture name="chara-down 10003" x="2922" y="0" width="384" height="300"/>
+	<SubTexture name="chara-down 10004" x="3306" y="0" width="384" height="300"/>
+	<SubTexture name="chara-down 10005" x="3690" y="0" width="384" height="300"/>
+	<SubTexture name="chara-down 10006" x="1770" y="300" width="384" height="300"/>
+	<SubTexture name="chara-down 10007" x="2154" y="300" width="384" height="300"/>
+	<SubTexture name="chara-down 10008" x="2154" y="300" width="384" height="300"/>
+	<SubTexture name="chara-down 10009" x="2154" y="300" width="384" height="300"/>
+	<SubTexture name="chara-idle 10000" x="656" y="394" width="309" height="335" pivotX="11.65" pivotY="0"/>
+	<SubTexture name="chara-idle 10001" x="656" y="394" width="309" height="335"/>
+	<SubTexture name="chara-idle 10002" x="965" y="394" width="309" height="335"/>
+	<SubTexture name="chara-idle 10003" x="1274" y="394" width="309" height="335"/>
+	<SubTexture name="chara-idle 10004" x="1583" y="600" width="309" height="335"/>
+	<SubTexture name="chara-idle 10005" x="1892" y="600" width="309" height="335"/>
+	<SubTexture name="chara-idle 10006" x="2201" y="600" width="309" height="335"/>
+	<SubTexture name="chara-idle 10007" x="2510" y="642" width="309" height="335"/>
+	<SubTexture name="chara-idle 10008" x="2819" y="642" width="309" height="335"/>
+	<SubTexture name="chara-idle 10009" x="3128" y="642" width="309" height="335"/>
+	<SubTexture name="chara-idle 10010" x="3437" y="642" width="309" height="335"/>
+	<SubTexture name="chara-idle 10011" x="3746" y="642" width="309" height="335"/>
+	<SubTexture name="chara-idle 10012" x="656" y="729" width="309" height="335"/>
+	<SubTexture name="chara-idle 10013" x="965" y="729" width="309" height="335"/>
+	<SubTexture name="chara-idle 10014" x="965" y="729" width="309" height="335"/>
+	<SubTexture name="chara-idle 10015" x="965" y="729" width="309" height="335"/>
+	<SubTexture name="chara-idle 10016" x="965" y="729" width="309" height="335"/>
+	<SubTexture name="chara-idle 10017" x="965" y="729" width="309" height="335"/>
+	<SubTexture name="chara-left 10000" x="0" y="736" width="332" height="309" pivotX="57.85" pivotY="-30.65"/>
+	<SubTexture name="chara-left 10001" x="1274" y="935" width="332" height="309"/>
+	<SubTexture name="chara-left 10002" x="1606" y="935" width="332" height="309"/>
+	<SubTexture name="chara-left 10003" x="1938" y="935" width="332" height="309"/>
+	<SubTexture name="chara-left 10004" x="2270" y="977" width="332" height="309"/>
+	<SubTexture name="chara-left 10005" x="2602" y="977" width="332" height="309"/>
+	<SubTexture name="chara-left 10006" x="2602" y="977" width="332" height="309"/>
+	<SubTexture name="chara-left 10007" x="2602" y="977" width="332" height="309"/>
+	<SubTexture name="chara-left 10008" x="2602" y="977" width="332" height="309"/>
+	<SubTexture name="chara-left 10009" x="2602" y="977" width="332" height="309"/>
+	<SubTexture name="chara-right 10000" x="2538" y="300" width="328" height="342" pivotX="-34.15" pivotY="3.95"/>
+	<SubTexture name="chara-right 10001" x="2866" y="300" width="328" height="342"/>
+	<SubTexture name="chara-right 10002" x="3194" y="300" width="328" height="342"/>
+	<SubTexture name="chara-right 10003" x="3522" y="300" width="328" height="342"/>
+	<SubTexture name="chara-right 10004" x="0" y="394" width="328" height="342"/>
+	<SubTexture name="chara-right 10005" x="328" y="394" width="328" height="342"/>
+	<SubTexture name="chara-right 10006" x="328" y="394" width="328" height="342"/>
+	<SubTexture name="chara-right 10007" x="328" y="394" width="328" height="342"/>
+	<SubTexture name="chara-right 10008" x="328" y="394" width="328" height="342"/>
+	<SubTexture name="chara-right 10009" x="328" y="394" width="328" height="342"/>
+	<SubTexture name="chara-up 10000" x="0" y="0" width="295" height="394" pivotX="34.35" pivotY="52.9"/>
+	<SubTexture name="chara-up 10001" x="295" y="0" width="295" height="394"/>
+	<SubTexture name="chara-up 10002" x="590" y="0" width="295" height="394"/>
+	<SubTexture name="chara-up 10003" x="885" y="0" width="295" height="394"/>
+	<SubTexture name="chara-up 10004" x="1180" y="0" width="295" height="394"/>
+	<SubTexture name="chara-up 10005" x="1475" y="0" width="295" height="394"/>
+	<SubTexture name="chara-up 10006" x="1475" y="0" width="295" height="394"/>
+	<SubTexture name="chara-up 10007" x="1475" y="0" width="295" height="394"/>
+	<SubTexture name="chara-up 10008" x="1475" y="0" width="295" height="394"/>
+	<SubTexture name="chara-up 10009" x="1475" y="0" width="295" height="394"/>
+</TextureAtlas>
